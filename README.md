@@ -1,7 +1,9 @@
 
 
 ## About Project
-This a Learning Management System for SHS
+<b>This is a Learning Management System for SHS(AAMUSTED FINAL YEAR STUDENT PROJECT)</b>
+
+
 
 ##Configuration
 Run git clone repo
