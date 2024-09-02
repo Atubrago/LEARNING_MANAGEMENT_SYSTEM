@@ -3,7 +3,12 @@
 ## About Project
 <b>This is a Learning Management System for SHS(AAMUSTED FINAL YEAR STUDENT PROJECT)</b>
 
-
+<b>Authors</b>
+<hr>
+Brefo Enoch - 52010406172. <hr>
+Akanaba Asamane Christopher - 52010406203.<hr>
+Aboagye Akwasi - 52010406964.<hr>
+ Owusu Prince - 5201040697<hr>
 
 ##Configuration
 Run git clone repo
